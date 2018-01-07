@@ -1,0 +1,69 @@
+Add Phone Function Success
+ID = ab15
+Brand = sweep
+Price = 500
+Quantity = 9
+
+Add Phone Function Success
+ID = ab14
+Brand = fly
+Price = 400
+Quantity = 50
+
+Function Update Price for ID ab14
+Old Price: $400
+New Price: $700
+
+Function Update Quantity for ID ab14
+Old Quantity: 50
+New Quantity: 0
+
+Function update failed.
+Product "cd32" does not exist.
+
+Database successfully populated!
+
+Printing Phone 9
+ID = ab11
+Brand name = air
+Price = 760
+Quantity = 12
+
+Display function failed
+This phone does not exist.
+
+Product ID: 	Brand: 		Price: 		Quantity: 
+ab15		sweep		$500		 9
+ab14		fly		$700		 0
+ac11		quick		$700		 0
+ab13		bomb		$300		 400
+aa12		iphone3		$500		 12
+aa13		iphone4		$300		 30
+aa15		drop		$320		 30
+aa16		kick		$40		 50
+aa19		shing		$310		 40
+ab11		air		$760		 12
+
+Deletion of product completed
+Product to be deleted: ac11
+Old number of products: 10
+New number of products: 9
+
+Function Delete failed. 
+ID "cd32" does not exist.
+
+Function Delete failed. Item "ab13" does not have quantity zero.
+
+Database successfully saved!
+Product ID: 	Brand: 		Price: 		Quantity: 
+ab15		sweep		$500		 9
+ab14		fly		$700		 0
+ab13		bomb		$300		 400
+aa12		iphone3		$500		 12
+aa13		iphone4		$300		 30
+aa15		drop		$320		 30
+aa16		kick		$40		 50
+aa19		shing		$310		 40
+ab11		air		$760		 12
+
+You're now exiting the program.
